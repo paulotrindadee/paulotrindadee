@@ -16,8 +16,5 @@
 <img  align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Olá! Me chamo Paulo Trindade, um entusiasta da tecnologia. Sou estudante de Análise e Desenvolvimento de Sistemas na Wyden Ruy Barbosa, cursando o 3º período. Além da faculdade, faço cursos online buscando sempre mais conhecimento na área de tecnologia.
 
-No momento, estou em transição de carreira, mas tenho contato com computadores desde os meus anos de idade, graças ao meu pai, que também é desenvolvedor. Hoje ele não está mais na área, mas sempre que pode, ele desenvolve alguns sistemas. Infelizmente, moramos distantes, mas sempre que posso, vou visitá-lo ou troco uma ideia com ele pelo WhatsApp.
-
-Ah, em 2022, dei início aos meus estudos em inglês, pois é a parte mais importante do meu objetivo: aprender outra língua e trabalhar no exterior.
+Estudante de Análise e Desenvolvimento de Sistemas com experiência multifacetada. Destaco meu histórico sólido em atendimento ao cliente, gestão administrativa e suporte a sistemas de software na área farmacêutica. Na tecnologia, habilidades com instalação de sistemas de segurança e formatação de computadores. Versátil, atuei em soldagem, almoxarifado e contribuí para e-commerce. Minha adaptabilidade reflete-se na transição eficaz entre funções. Como estudante, possuo habilidades em HTML5, Javascript, CSS, Python, PHP e aprendendo Typescript focando em desenvolvimento full Stack. Busco integrar minha diversidade de experiências e conhecimentos na área de Desenvolvimento de Sistemas, contribuindo com inovação e proatividade.
