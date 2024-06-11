@@ -17,4 +17,4 @@
 </div><br/>
 
 
-Estudante de Análise e Desenvolvimento de Sistemas com experiência multifacetada. Destaco meu histórico sólido em atendimento ao cliente, gestão administrativa e suporte a sistemas de software na área farmacêutica. Na tecnologia, habilidades com instalação de sistemas de segurança e formatação de computadores. Versátil, atuei em soldagem, almoxarifado e contribuí para e-commerce. Minha adaptabilidade reflete-se na transição eficaz entre funções. Como estudante, possuo habilidades em HTML5, Javascript, CSS, Python, PHP e aprendendo Typescript focando em desenvolvimento full Stack. Busco integrar minha diversidade de experiências e conhecimentos na área de Desenvolvimento de Sistemas, contribuindo com inovação e proatividade.
+Estudante de Análise e Desenvolvimento de Sistemas na faculdade Wyden Ruy Barbosa, em Salvador/Ba. Atualmente, estudo JavaScript, Node.js e SQL de forma autodidata pela plataforma Udemy. Meu objetivo é aplicar meus conhecimentos na área de desenvolvimento de software, tornando-me um profissional de qualidade capaz de contribuir com a empresa, clientes e colegas.
